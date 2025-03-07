@@ -1,0 +1,4 @@
+# Exclude text, pickle, and binary files
+*.txt
+*.pkl
+*.bin
